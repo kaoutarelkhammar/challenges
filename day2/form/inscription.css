@@ -1,0 +1,77 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    
+  }
+  
+  
+  .container {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  
+  form {
+    background-color: #fff;
+    border: 1px solid #ccc;
+   
+  }
+  
+  
+ p {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+   color: #a40bc3;
+  }
+  
+  
+  fieldset {
+    border: none;
+  }
+  
+  
+  legend {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  
+  label {
+    display: block;
+    
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  select,
+  textarea {
+    width: 100%;
+    border: 1px solid #ccc;
+    
+    font-size: 14px;
+  }
+  
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  
+  .sub {
+    background-color: #a40bc3;
+    color: #fff;
+    
+    padding: 10px;
+    width: 100%;
+    border: none;
+   
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  
