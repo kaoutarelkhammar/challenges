@@ -1,0 +1,392 @@
+.list{display: flex;}
+
+body{ background-color: beige;}
+
+li {
+    color: black;
+    text-align: center;
+    bottom: -26px;
+    position: relative;
+    top: -14px;
+    list-style: none;
+    padding-right: 57px;
+}
+header {
+    padding-bottom: 120px;
+    background-image: url(headerbackground.jpg);
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: 6px;
+    margin-top: -8px;
+    background-size: 116%;
+    background-position: right;
+}
+
+a{ text-decoration: none;
+    color: black;
+   
+}
+
+
+p {
+    margin-bottom: 93px;
+    margin-top: 44px;
+    padding-left: 13px;
+    text-align: center;
+    font-family: fantasy;
+    width: 345px;
+}
+
+    pre {
+        font-family: fantasy;
+        text-align: center;
+        padding-left: 626px;
+        font-size: 19px;
+        color: rgb(16, 17, 17);
+        position: relative;
+    }
+
+.navbar {
+    justify-content: space-between;
+    display: flex;
+    margin: 6px;
+    padding-top: 30px;
+    padding-left: 406px;
+}
+ 
+h1 {
+    padding-left: 361px;
+    text-align: center;
+    padding-bottom: 103px;
+    color: black;
+    font-family: fantasy;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    background-color: white;
+    padding: 10px;
+    margin-left: 30px;
+}
+  
+  .grid-item {
+   
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .item1 {
+
+background-image: url(This\ Tiny\ San\ Francisco\ Apartment\ Is\ Our\ Bachelorette\ Dream\ -\ The\ Everygirl.jpeg)  ;
+    background-position: center;
+    background-position: cover;
+    width: 1176px;
+    height: 300px;
+}
+
+
+.item2 {
+    background-image: url(Homepage\ -\ Covet\ Fashion.png);
+    background-position: center;
+    background-position: cover;
+    grid-column-start: 1;
+    margin-top: 26%;
+    width: 43%;
+    height: 300px;
+}
+
+.item3 {
+    background-image: url(ig\ @lovingitnn.jpeg);
+    background-size: 722px;
+    background-position: center;
+    background-position: cover;
+    width: 722px;
+    margin-left: 454px;
+    margin-top: -220px;
+    height: 300px;
+}
+
+.item4 {
+  background-image: url(fashion.png);
+  background-size: 423px;
+    background-position: center;
+   
+    margin-bottom: 10px;
+    background-color: burlywood;
+    width: 422px;
+    height: 458px;
+    margin-top: -73px;
+}
+
+.item5 {background-size: 467px;
+   background-image: url(Fashion\ illustration.jpeg);
+    background-position: center;
+    background-position: cover;
+    width: 353px;
+    height: 614px;
+    margin-left: 822px;
+    margin-top: -372px;
+}
+.item6 {
+  background-image: url(Currently\ Wearing.png);
+  background-size: 400px;
+    background-position: center;
+    
+    width: 382px;
+    height: 311px;
+    margin-top: -302px;
+    position: relative;
+    top: -310px;
+    left: 430px;
+}
+
+.item7 {
+    background-color: chocolate;
+    background-position: center;
+    background-position: cover;
+    width: 379px;
+    height: 260px;
+    margin-left: 432px;
+    margin-top: -610px;
+}
+.item8 {
+  background-image: url(fashion-design.jpg);
+  background-size: 100%;
+    background-position: center;
+    background-position: cover;
+    width: 68%;
+    height: 274px;
+    margin-top: -242px;
+}
+.item9 {
+    background-color: darkorchid;
+    background-position: center;
+    background-position: cover;
+    width: 552px;
+    margin-top: -300px;
+    margin-left: 625px;
+    height: 300px;
+}
+
+h2 {
+    padding-right: 452px;
+    font-family: cursive;
+    text-align: end;
+    color: black;
+    position: relative;
+}
+
+    body{ margin-left: 38px;
+   background-color: white;
+        display: block;
+        margin: 8px;
+    }
+
+    .fa-solid, .fas {
+        position: relative;
+    bottom: -70px;
+    left: 42px;
+    top: 88px;
+        font-weight: 900;
+    }
+
+    .fa-magnifying-glass:before, .fa-search:before {top: -77px;
+       
+        position: relative;
+        top: -87px;
+        left: 1139px;
+    }
+       
+    
+    
+  
+    .button {
+        border: 1px;
+        background-color: white;
+        bottom: 139px;
+        border-radius: 15px;
+        width: 136px;
+        height: 44px;
+        position: absolute;
+        right: 263px;
+    }
+        
+    .wlc {
+        background-color: white;
+        margin-bottom: 24px;
+        width: 700px;
+        height: 352px;
+    }
+.img1 {
+    bottom: 153px;
+    width: 478px;
+    position: relative;
+    left: 742px;
+}
+
+h3 { font-family: cursive;
+    left: -112px;
+    position: relative;
+    text-align: center;
+    padding-bottom: 11px;
+}
+
+
+.footer-content { padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding-left: 467px;
+}
+
+.footer-links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.footer-links li {
+    margin-left: 346px; 
+    margin: 0 15px;
+}
+
+
+.social-icons a {
+    margin-left: 10px;
+}
+
+.social-icons img { padding-right: 73px;
+    width: 30px;
+    height: 30px;
+}
+
+.footer-content::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.footer-content .copyright {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #999;
+}
+
+/* Additional styling for responsiveness */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer-links ul {
+        margin-top: 10px;
+    }
+
+    .social-icons {
+        margin-top: 10px;
+    }
+}
+
+footer {
+    background-color: #f3b7b8;
+    padding: 23px 0;
+    text-align: center;
+    margin-left: -11px;
+    margin-top: 1075px;
+    width: 105%;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.social-icons a {
+    margin-left: 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+}
+
+ .copyright {
+    margin-top: 20px;
+    font-size: 14px;
+    color: black;
+   
+}
+
+
+
+
+
+.about-us pre {
+    margin: 0;
+}
+
+.instagram-feed {
+    text-align: center;
+    padding: 20px;
+}
+
+.instagram-feed img {
+    max-width: 75%;
+    height: auto;
+    left: -4px;
+    position: relative;
+}
+
+.feed{ max-width: 40%;}
+
+.about{ display: flex;}
+
+
+.design{margin-bottom: 108px;
+    margin-top: 29px;
+    text-align: center;
+    font-family: fantasy;
+    padding-left: 10px;}
+
+     input{ display: block;
+        width: 300px;
+        margin-left: 60px;
+        height: 50px;
+        margin-bottom: 10px;
+        border-radius: 16px;}
+
+    .msg{     height: 230px;
+        padding-bottom: 187px;
+        padding-left: 20px}
+
+        .services{ padding-left: 13px;
+            width: 121px;
+       
+            padding-right: 306px;
+            font-family: cursive;
+            text-align: end;
+            color: black;
+            position: relative;
+        }
+
+        .title{margin-bottom: 80px;
+            margin-top: -131px;
+            padding-left: 675px;
+            text-align: center;
+            font-family: fantasy;
+            width: 345px;}
+
+         
