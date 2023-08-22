@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  color: #fff;
+  padding: 10px;}
+
+  .fa-bars:before, .fa-navicon:before {
+    padding-right: 14px;
+    padding-left: 20px;
+    color: black;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+.icons {
+  margin-left: auto;
+}
+
+header img { padding-right: 90px;
+  height: 35px;
+  width: auto;
+}
+
+header input[type="text"] {
+  padding: 5px;
+  width: 494px;
+  margin-right: 4px;
+}
+h2{font-size: 21px;}
+
+header input[type="submit"] {
+  padding: 5px 10px;
+  height: 29px;
+    width: 100px;
+  background-color: #555;
+  color: #fff;
+  border: none;
+  
+}
+.icons{justify-content: space-between;}
+
+.videos-container {
+  display: flex;
+  gap: 20px;
+  max-width: 960px;
+  margin: 29px 37px;}
+
+.video { flex-direction: column-reverse;
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+ h2
+ {
+  margin: 10px 0;
+}
+
+
+
+ .search{position: relative;
+    align-items: center;
+    background-color: var(--ytd-searchbox-background);
+    border: 1px solid var(--ytd-searchbox-legacy-border-color);
+    border-right: none;
+    border-radius: 40px 0 0 40px;
+    box-shadow: inset 0 1px 2px var(--ytd-searchbox-legacy-border-shadow-color);
+    caret-color: var(--yt-spec-text-primary);
+    color: var(--ytd-searchbox-text-color);
+    padding: 0px 4px 0px 16px;
+    margin-left: 32px;
+    flex: 1;
+    flex-basis: 1e-9px;
+    display: flexbox;
+    display: flex;
+    flex-direction: row;}
+
+    .fa-microphone:before {
+      background-color: #d6d6d6;
+    border-radius: 55px;
+      color: black;
+      padding: 17px;
+    margin: 17px;}
+
+      .fa-bell:before { margin-right: 23px;
+        position: relative;
+        top: 1px;
+        padding: 17px;
+        background-color: #80808052;
+        border-radius: 30px;
+        color: black;}
+
+        .fa-magnifying-glass:before, .fa-search:before {
+
+          color: black;
+          padding: 17px;
+          background-color: #80808052;
+          border-radius: 30px;}
+
+          .videos-container {
+            display: flex;
+            gap: 20px;
+          }
+          .video1, .music {
+            border: 1px solid #ccc;
+            padding: 20px;
+          }
+
+          .images{ height: 150px;}
+          .fa-circle-user:before, .fa-user-circle:before {
+            content: "\f2bd";
+            margin-right: 23px;
+            position: relative;
+            top: 1px;
+            padding: 17px;
+            background-color: #80808052;
+            border-radius: 30px;
+            color: black;
+        }
+
+            .fa-circle-user:before, .fa-user-circle:before {
+             
+              color: black;
+          }
+          .music{ aspect-ratio: auto;}
+          .logoo {
+            height: 73px;
+            padding-top: 34px;
+        }
+            .msc {
+              color: black;
+              font-weight: bold;
+              text-decoration: none;
+              position: relative;
+              top: -39px;
+              left: 18px;
+          }
+          .subscribe {
+            color: #9b9796;
+            position: relative;
+            top: -13px;
+            right: 99px;
+            font-size: 15px;
+            text-decoration: none;}
+            .btn {
+              right: 67px;
+              bottom: 27px;
+              position: relative;
+              background-color: black;
+              color: white;
+              height: 43px;
+              width: 110px;
+              border-radius: 19px;}
+
+              .fa-thumbs-up:before {
+                content: "\f164";
+                margin-right: 23px;
+                position: relative;
+                top: -21px;
+                padding: 17px;
+                background-color: #80808052;
+                border-radius: 30px;
+            }
+            .fa-thumbs-down:before {margin-right: 23px;
+              position: relative;
+              top: -21px;
+              padding: 17px;
+              background-color: #80808052;
+              border-radius: 30px;
+          }
+          .fa-share:before{ margin-right: 23px;
+            position: relative;
+            top: -21px;
+            padding: 17px;
+            background-color: #80808052;
+            border-radius: 30px;}
+            .fa-scissors:before{margin-right: 23px;
+              position: relative;
+              top: -21px;
+              padding: 17px;
+              background-color: #80808052;
+              border-radius: 30px;}
+              

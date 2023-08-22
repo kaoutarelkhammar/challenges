@@ -1,0 +1,143 @@
+
+
+.navbar{ display: flex;}
+
+.logo{ height: 89px;
+    padding-right:100px ;}
+.list{ text-decoration: none; 
+color: white;
+display: flex; 
+padding: 20px;}
+.home{ display: flex; 
+}
+img{height: 500px;
+position: relative;
+left: 30px;
+}
+
+
+.WELCOME {
+  text-align: center;
+  padding: 3px 31px;
+  margin: 0px;
+  color: black;
+  background-color: white;
+  position: relative;
+  left: 5px;
+  top: 30PX;
+  right: -505px;
+  width: 500px;
+}
+.bott {
+  color: white;
+  background-color: #f965c5;
+  border-radius: 7px;
+  width: 200px;
+  height: 55px;
+  left: 185px;
+  position: absolute;
+  bottom: -46px;
+  border-color: #f965c5;
+}
+
+.container{ display: flex;
+font-size: 8px ;}
+
+.details{ background-color: #af6adf;
+    font-size: 11px; } 
+
+li {
+        list-style-type: none;
+    }
+html{ background-color:#656ef8 ;}
+a{ padding-right: 50px; 
+color: rgb(9, 9, 9); 
+display: block;
+padding-bottom: 10px;
+padding-left: 10px;}
+
+p{ text-align: center; }
+
+.shine{display: flex; 
+font-size: 15px;
+background-color:white;
+    position: relative;
+    top: 21px;
+} 
+.title{ color: #f965c5; }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  footer {
+    background-color: white;
+    color: #060606;
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  .footer-content {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .services,
+  .contact {
+    flex: 1;
+    padding: 1em;
+  }
+  
+  .services {
+    border-right: 1px solid #888;
+  }
+  
+  .services h3,
+  .contact h3 {
+    margin-top: 0;
+  }
+  .btn{ width: 139px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #f965c5;
+    color: white; 
+margin-top: 15px;
+border-color: #f864c5;}
+
+.img1{ display: flex}
+
+.moins {
+  ALIGN-ITEMS: center;
+  display: flex;
+  height: 39px;
+  width: 39px;
+  text-align: center;
+  border-radius: 21px;
+  margin-bottom: 25px;
+  background-color: #f965c5;
+  border-color: #f864c5; }
+
+  .plus{  height: 39px;
+    width: 39px;
+    border-radius: 21px;
+    background-color: #f965c5;
+    border-color: #f864c5;}
+
+  .center{ display: flex;}
+  .buttons{ position: absolute;
+  top: 45%;
+left: 5%;
+border-radius: 12px;
+}
+.wlc1{ display: inline;}
+
+.logos{ height: 12px;}
+.FB{ height: 15PX;}
+.WTSP{height: 15PX;}
+.TWT{height: 15PX;}
+.INSTAGRAM{height: 15PX;}
